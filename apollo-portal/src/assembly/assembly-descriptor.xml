@@ -40,6 +40,8 @@
 			<includes>
 				<include>application-github.properties</include>
 				<include>apollo-env.properties</include>
+				<include>*.yml</include>
+				<include>*.xml</include>
 			</includes>
 		</fileSet>
 		<!--artifact -->
